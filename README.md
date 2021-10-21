@@ -7,3 +7,5 @@ Developer Operations - Group 12
 
 ## Uploaded a new .md file
 
+### Added more text to the .txt files about GBC, DevOps and SDLC.
+
