@@ -14,8 +14,8 @@
 
 #### I uploaded my 101232988_sdlc.txt file.
 
-#### I add more info about gbc inside my 101232988_gb.txt file.
+#### I added more info about gbc inside my 101232988_gb.txt file.
 
-#### I add more info about gbc inside my 101232988_devops.txt file.
+#### I added more info about devops inside my 101232988_devops.txt file.
 
-#### I add more info about gbc inside my 101232988_sdlc.txt file.
+#### I added more info about omportance of Devops inside my 101232988_sdlc.txt file.
