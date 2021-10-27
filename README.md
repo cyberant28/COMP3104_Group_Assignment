@@ -17,3 +17,5 @@
 #### I add more info about gbc inside my 101232988_gb.txt file.
 
 #### I add more info about gbc inside my 101232988_devops.txt file.
+
+#### I add more info about gbc inside my 101232988_sdlc.txt file.
