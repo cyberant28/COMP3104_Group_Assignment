@@ -18,4 +18,4 @@
 
 #### I added more info about devops inside my 101232988_devops.txt file.
 
-#### I added more info about omportance of Devops inside my 101232988_sdlc.txt file.
+#### I added more info about importance of Devops inside my 101232988_sdlc.txt file.
