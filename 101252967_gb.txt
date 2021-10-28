@@ -3,3 +3,8 @@ George Brown College
 George Brown College George Brown offers a wide variety of programs in art and design, 
 business, early childhood education, construction and engineering technologies, health sciences, 
 hospitality and more.
+
+George Brown has three campuses in downtown Toronto
+- Casa Loma Campus - home to academic centres like Construction & Engineering Technologies, Preparatory & Liberal Studies, Centre for Arts, Design & Information Technology, and Continuing Education.
+- St. James Campus - home to academic centres like Business, Hospitality & Culinary Arts, Arts, Design & Information Technology, Liberal Studies, Community Services & Early Childhood and Continuing Education.
+- Waterfront Campus - home to the centre for Health Sciences.
