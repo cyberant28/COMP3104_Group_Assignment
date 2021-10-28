@@ -11,3 +11,5 @@ Added all files needed for the assignment
 - _gb.txt       - this file contains information about George Brown
 - _devops.txt   - this file contains information about DevOps course
 - _sdlc.txt     - this file contains information about SDLC
+
+Updated all information for each file.
