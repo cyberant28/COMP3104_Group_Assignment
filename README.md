@@ -4,7 +4,6 @@
 -------------------------------------------------------------------------------------------------------------------------
 ### This is my first commit on my README file.
 
-README
 This README file contains information about my assignment and other files.
 
 Added all files needed for the assignment
@@ -15,3 +14,5 @@ Added all files needed for the assignment
 Updated all information for each file.
 
 All files required are updated and finished for the assignment.
+
+Modified some mistakes on 101252967_gb file.
