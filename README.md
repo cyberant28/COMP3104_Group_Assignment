@@ -13,3 +13,5 @@ Added all files needed for the assignment
 - _sdlc.txt     - this file contains information about SDLC
 
 Updated all information for each file.
+
+All files required are updated and finished for the assignment.
