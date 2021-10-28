@@ -2,4 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------
 ## Developer Operations - Group 12
 -------------------------------------------------------------------------------------------------------------------------
-### If everything goes right, all the text written on each group member's README.md should show below after we merge all the branches.
+### This is my first commit on my README file.
+
+README
+This README file contains information about my assignment and other files.
