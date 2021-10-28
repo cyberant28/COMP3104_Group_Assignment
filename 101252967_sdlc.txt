@@ -1,1 +1,17 @@
 Software Devleopment Life Cycle
+
+SDLC is a process to improve the quality of the software and the overall development process.
+
+SDLC has multiple stage/phases and they are:
+1. Planning - Brainstorm ideas for that solve a particular problem faced by target users.
+2. Analysis - Interacting with stakeholders and users to collect and document project requirements.
+3. Design - Creating thr architecture of a software system and it's elements.
+4. Development - Building the software using a programming language by the development team.
+5. Testing - Evaluating the quality of the software with the aim of findinf ad fixing defects.
+6. Deployment - Preparing the software to run and operate in a specific environment.
+7. Maintenance - Updating and supporting the software after it has been delivered to the market.
+
+DevOps focuses on improving the SDLC. 
+It is a practice that allows a single team to manage the entire application development life cycle
+Through each stage, a DevOps engineer makes informed decisions to help optimize the overall process 
+with the objective of increasing the volume of software releases, updates and fixes. 
