@@ -8,7 +8,7 @@
 
 ### If everything goes right, all the text written on each group member's README.md should show below after we merge all the branches.
 
-This is first line which I am trying to start to commit this file.
-
-I added 3 files to this Assignment.
+I add 3 files to this Assignment.
 1 - gb.txt which that is about George brown college.
+2 - devops.txt which This file contains information about COMP 3104 DevOps course.
+3 - This file will contain details about important of learning DevOps engineer in software development cycle.
