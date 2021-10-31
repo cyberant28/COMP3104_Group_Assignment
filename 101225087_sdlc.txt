@@ -1,0 +1,14 @@
+SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible.
+SDLC provides a well-structured flow of phases that help an organization to quickly produce high-quality software which is well-tested and ready for production use.
+
+It is a framework defining tasks performed at eash step in the software development process.
+
+7 Phases of the system development life cycle:
+
+1- Planning stage
+2- Analysis stage
+3- Design stage
+4- Development stage
+5- Testing stage
+6- Integration stage
+7- Maintenance stage
