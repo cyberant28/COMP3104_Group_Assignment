@@ -1,0 +1,6 @@
+SDLC is a process to improve the quality of the software and the overall development process.
+
+DevOps focuses on improving the SDLC. 
+It is a practice that allows a single team to manage the entire application development life cycle
+Through each stage, a DevOps engineer makes informed decisions to help optimize the overall process 
+with the objective of increasing the volume of software releases, updates and fixes. 
