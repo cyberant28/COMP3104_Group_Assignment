@@ -8,6 +8,8 @@
 
 ### If everything goes right, all the text written on each group member's README.md should show below after we merge all the branches.
 
-####This is the first commit.
+---
 
-####I add 3 files to this assignment.
+This is the first commit.
+
+I add 3 files to this assignment.
