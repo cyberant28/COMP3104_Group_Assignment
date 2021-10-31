@@ -1,3 +1,4 @@
 DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
 DevOps makes better collaboration and faster turnaround. Cons of DevOps: Production environment in the cloud makes an enterprise infrastructure test purposes complex 
 and leads to compatibility issues.
+ In-depth understanding required to handle the integration, infrastructure, and orchestrating the workflow.
